@@ -11,10 +11,6 @@
 
 - [Technologies Used]
 
-- [How to Run]
-
-- [Results Preview]
-
 - [License]
 
 
@@ -82,4 +78,5 @@ The dashboard uses publicly available global demographic datasets, sourced from:
 
 - Interactive visualizations: bar charts, line graphs, maps, and KPIs
 
-  
+ ## License
+This project is intended for educational and analytical use. Attribution encouraged if reused or adapted
